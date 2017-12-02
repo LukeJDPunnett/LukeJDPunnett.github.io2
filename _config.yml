@@ -2,4 +2,4 @@ permalink: /blog/:year/:month/:day/:title
 name: Luke Punnett, Front End Developer
 markdown: kramdown
 
-OtherComment:".."
+OtherComment:"dd.."
